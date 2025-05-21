@@ -1,9 +1,5 @@
-<h1 align="center">Salut 👋, Je suis Virak !</h1>
-<h3 align="center">Réinventer ma carrière, une ligne de code à la fois.</h3>
-
-- J'apprends **les technos clés: HTML, CSS, JavaScript, Node.js, PostgreSQL...**
-
-- 📫 Contactez-moi: **virakdok@gmail.com**
+Salut! Je suis Virak et je suis basé à Paris, France 🇫🇷.
+Déterminé à réussir ma reconversion professionnelle en tant que Développeur Fullstack, je me forme activement à l'École O'clock sur les technos clés: HTML, CSS, JavaScript, Node.js, PostgreSQL... 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
