@@ -1,5 +1,5 @@
 Salut! Je suis Virak et je suis basé à Paris, France 🇫🇷.
-Déterminé à réussir ma reconversion professionnelle en tant que Développeur Fullstack, je me forme activement à l'École O'clock sur les technos clés: HTML, CSS, JavaScript, Node.js, PostgreSQL... 
+<p> Déterminé à réussir ma reconversion professionnelle en tant que Développeur Fullstack, je me forme activement à l'École O'clock sur les technos clés: HTML, CSS, JavaScript, Node.js, PostgreSQL... </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
